@@ -1,7 +1,6 @@
 # CAT
 Tiệm bán hàng len, sản phẩm, phụ kiện len và blind box thần tượng
-<!DOCTYPE html>
-<html lang="vi">
+lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
