@@ -24,7 +24,7 @@ Tiệm bán hàng len, sản phẩm, phụ kiện len và blind box thần tư�
 <section class="section" id="products"><div class="head"><div><h2>Sản phẩm</h2><small>Chọn món bạn thích rồi thêm vào giỏ 💗</small></div></div>
 <div class="filters"><button class="filter active" onclick="filter('all',this)">Tất cả</button><button class="filter" onclick="filter('yarn',this)">🧶 Len sợi</button><button class="filter" onclick="filter('idol',this)">🎀 Blind Box / Idol</button></div>
 <div class="grid" id="productGrid"></div></section>
-<section class="section"><div class="about"><h2>🐾 Store CAT</h2><p>Website bán hàng pastel cute. Bạn có thể tự thêm, sửa, xóa sản phẩm trong khu quản lý. Dữ liệu của bản demo được lưu trên trình duyệt này.</p></div></section>
+<section class="section"><div class="about"><h2>🐾 Store CAT</h2><p>Website bán hàng pastel cám ơn các cục dàng đã ủng hộ tiệm nhen. ANH PHÓNG MÁY BAY SHIP CHO CÁC DỢ NGAY NÈ..</p></div></section>
 </div>
 
 <div id="admin" class="admin">
